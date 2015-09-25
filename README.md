@@ -11,6 +11,9 @@
 - dynamically define the number of pizzas in the background
 - change all querySelectors to document.getElementById or document.getElementByClassName
 
+# Starting point
+Simply open index.html on the root directory.
+
 # Archive
 
 default comments below
