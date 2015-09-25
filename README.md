@@ -1,3 +1,20 @@
+# Changes for index.html
+- put media tag for print.css
+- put media tag for portrait.css
+- inline google font style
+- inline style.css
+- apply async for all js files
+- minimize js files
+
+# Changes for pizza.html
+- bring out all var definition out of loops
+- dynamically define the number of pizzas in the background
+- change all querySelectors to document.getElementById or document.getElementByClassName
+
+# Archive
+
+default comments below
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
